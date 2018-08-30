@@ -1,3 +1,5 @@
+// https://my-json-server.typicode.com/vladislavsuljanovs/faketestdb
+
 {
     "slot": {
       "id": "1",
@@ -5,12 +7,14 @@
         "right": true
       }
     },
-    "widgets": [
+    "services": [
       {
+        "service_name": "msger",
         "pagename": "Jnn",
         "id": "286535388813040"
       },
       {
+        "service_name": "insta",
         "profile_picture_url":"https://scontent.xx.fbcdn.net/v/t51.2885-15/37941584_303968596846629_4005371244802211840_n.jpg?_nc_cat=0&oh=2ac5ce615f1bed8414907344cb8bdeea&oe=5BEE8396",
         "username":"andypngr",
         "id":"17841400338040547",
