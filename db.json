@@ -208,35 +208,6 @@
               "thumbnailUrl":null,
               "fromDate":"a month ago"
             }
-          ],
-          [
-            {
-              "widgetId":"9CI9PhCS",
-              "mediaId":"17952098719092160",
-              "mediaType":"IMAGE",
-              "mediaUrl":"https://scontent.xx.fbcdn.net/v/t51.12442-15/38926183_1885483418207402_4185262282093101056_n.jpg?_nc_cat=0&oh=55893da4065e26bfc6ac498c95a1f426&oe=5BFA56CA",
-              "timestamp":"2018-08-25T01:52:05+0000",
-              "thumbnailUrl":null,
-              "fromDate":"2 days ago"
-            },
-            {
-              "widgetId":"9CI9PhCS",
-              "mediaId":"17888017354238725",
-              "mediaType":"IMAGE",
-              "mediaUrl":"https://scontent.xx.fbcdn.net/v/t51.12442-15/36679829_234371897289203_7386966294509125632_n.jpg?_nc_cat=0&oh=9ade341ebb57b778e5726eb1d97d1bcc&oe=5BD5D884",
-              "timestamp":"2018-07-17T22:34:42+0000",
-              "thumbnailUrl":null,
-              "fromDate":"a month ago"
-            },
-            {
-              "widgetId":"9CI9PhCS",
-              "mediaId":"17862253372265209",
-              "mediaType":"IMAGE",
-              "mediaUrl":"https://scontent.xx.fbcdn.net/v/t51.12442-15/36680411_279657842784015_270565416181432320_n.jpg?_nc_cat=0&oh=de75bf8e5bc93f60d9314e5ec76a8bad&oe=5BE783CB",
-              "timestamp":"2018-07-17T22:38:03+0000",
-              "thumbnailUrl":null,
-              "fromDate":"a month ago"
-            }
           ]
         ]
       }
